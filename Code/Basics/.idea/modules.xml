@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Basic Operations on Images/.idea/Basic Operations on Images.iml" filepath="$PROJECT_DIR$/../Basic Operations on Images/.idea/Basic Operations on Images.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Basics.iml" filepath="$PROJECT_DIR$/.idea/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Drawing on Images/.idea/Drawing on Images.iml" filepath="$PROJECT_DIR$/../Drawing on Images/.idea/Drawing on Images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Image Processing/.idea/Image Processing.iml" filepath="$PROJECT_DIR$/../Image Processing/.idea/Image Processing.iml" />
     </modules>
   </component>
 </project>

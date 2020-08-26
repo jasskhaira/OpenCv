@@ -7,5 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (Basics)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Drawing on Images" />
+    <orderEntry type="module" module-name="Basic Operations on Images" />
+    <orderEntry type="module" module-name="Image Processing" />
   </component>
 </module>
