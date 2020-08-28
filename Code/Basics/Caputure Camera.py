@@ -11,7 +11,8 @@ cv2.namedWindow("Live Feed")
 cv2.setMouseCallback('Live Feed', onMouse)
 
 print('Showing Camra feed')
-success , frame = Cameracap.read()
+s
+uccess , frame = Cameracap.read()
 while success and cv2.waitKey(1) == -1 and not clik:
     cv2.imshow('Window', frame)
     success ,frame = Cameracap.read()
